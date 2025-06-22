@@ -28,21 +28,21 @@ public class Enums {
         Status b = Status.PENDING ;
         Status c = Status.FAILED ;
     
-        System.out.println(a + " "+ b + " "+  c + " " );
-        Status s = Status.RUNNING ;
+        System.out.println(a.getStatus());
+     
         
 
         
-        switch ( s ) {
-            case RUNNING : System.out.println("Running");
-                break;
-            case PENDING : System.out.println("Pending");
-                break;
-            case FAILED : System.out.println("Failed");
-                break;        
-            default:
-                throw new AssertionError();
-        }
+        // switch ( s ) {
+        //     case RUNNING : System.out.println("Running");
+        //         break;
+        //     case PENDING : System.out.println("Pending");
+        //         break;
+        //     case FAILED : System.out.println("Failed");
+        //         break;        
+        //     default:
+        //         throw new AssertionError();
+        // }
 
         // for (Status ss : s) {
 
