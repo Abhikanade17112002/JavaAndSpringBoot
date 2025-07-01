@@ -8,7 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Maven" />
         <module name="JDBC" />
+        <module name="Hibernate" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
