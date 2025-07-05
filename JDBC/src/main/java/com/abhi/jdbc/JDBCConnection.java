@@ -1,6 +1,9 @@
 package com.abhi.jdbc;
 import java.sql.*;
 
+
+
+
 public class JDBCConnection {
     public static void connectToDB( String URL , String USERNAME , String PASSWORD ){
 
@@ -19,20 +22,20 @@ public class JDBCConnection {
     public static void retriveUsers(String URL , String USERNAME , String PASSWORD){
 
 
-        String retriveUsersQuery = "SELECT * FROM users" ;
-        try(Connection connection = DriverManager.getConnection(URL,USERNAME,PASSWORD) ;
-            Statement statement = connection.createStatement() ;
+        String retriveUsersQuery = "SELECT * FROM student" ;
+        try(Connection connection = DriverManager.getConnection(URL,USERNAME,PASSWORD);
+            Statement statement = connection.createStatement();
             ResultSet result = statement.executeQuery(retriveUsersQuery)
         ){
 
             System.out.println("Users Retrival Succesfull");
 
             while( result.next() ){
-                int userId = result.getInt("id");
-                String name = result.getString("name");
-                String email = result.getString("email") ;
+                int userId = result.getInt("studentId");
+                String name = result.getString("studentName");
 
-                System.out.println(userId + " | " + name + " | " + email);
+
+                System.out.println(userId + " | " + name + " | " );
 
             }
 
@@ -106,9 +109,9 @@ public class JDBCConnection {
         String USERNAME = "root";
         String PASSWORD = "Pass@123";
 
-//        connectToDB(URL,USERNAME,PASSWORD);
-//        insertUsers(URL,USERNAME,PASSWORD,"Suman Kanade" , "suman21@gmail.com");
-//        updateUserEmail(URL,USERNAME,PASSWORD,1,"abhishekrangnathkanade21@gmail.com");
+        connectToDB(URL,USERNAME,PASSWORD);
+        insertUsers(URL,USERNAME,PASSWORD,"Suman Kanade" , "suman21@gmail.com");
+        updateUserEmail(URL,USERNAME,PASSWORD,1,"abhishekrangnathkanade21@gmail.com");
         deleteUserWithID(URL,USERNAME,PASSWORD,2);
 
         retriveUsers(URL,USERNAME,PASSWORD);
