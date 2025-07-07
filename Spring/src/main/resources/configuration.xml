@@ -1,0 +1,35 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!-- bean definitions here -->
+    <bean id="Student" class="org.school.Entities.Student" scope="singleton" autowire="byType" >
+<!--        <property name="age" value="22" />-->
+<!--        <property name="laptop" ref="Laptop" />-->
+
+                <property name="age" value="22" />
+<!--                <property name="computer" ref="comp1" />-->
+
+
+
+<!--        <constructor-arg value="22"></constructor-arg>-->
+<!--        <constructor-arg ref="Laptop"></constructor-arg>-->
+<!--                <constructor-arg index="0" value="22"></constructor-arg>-->
+<!--                <constructor-arg index="1" ref="Laptop"></constructor-arg>-->
+
+<!--        <constructor-arg type="int" value="22"></constructor-arg>-->
+<!--        <constructor-arg type="org.school.Entities.Laptop" ref="Laptop"></constructor-arg>-->
+
+    </bean>
+    <bean id="computer1" class="org.school.Entities.Laptop" scope="singleton" primary="true">
+
+    </bean>
+    <bean id="computer2" class="org.school.Entities.Desktop" scope="singleton" lazy-init="true">
+
+    </bean>
+<!--    <bean id="computer2" class="org.school.Entities.Desktop" scope="singleton">-->
+
+<!--    </bean>-->
+
+</beans>
