@@ -2,6 +2,7 @@ package Arrays;
 
 class Student{
    int age ;
+   int id ;
    String name ;
 
    public void getInfo(){
