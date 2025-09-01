@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4179f85-f566-4136-88ff-0bcf15699433" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Basics/src/main/java/com/basics/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basics/src/main/java/com/basics/MultiplyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Basics/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultiplyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPSessions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPSessions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPSessions/src/main/java/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPSessions/src/main/java/MultiplyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPSessions/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPSessions/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../URLRewriting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../URLRewriting/src/main/java/com/urlrewriting/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../URLRewriting/src/main/java/com/urlrewriting/MultiplyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../URLRewriting/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../URLRewriting/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/IdeaProjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/JavaAndSpringBoot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/.idea/IdeaProjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/AbstractKeyword/AbstractKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/AbstractKeyword/AbstractKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/AbstractKeyword/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/AbstractKeyword/WagonR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Arrays/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Basics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/ClassAndObject/ClassAndObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/CollectionsFramework/CollectionsFramework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/CollectionsFramework/CollectionsFramework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/CollectionsFramework/CollestionsFramework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/DataTypes/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/DataTypes/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Enums/Day.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Enums/DayEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Enums/DayEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Enums/Enums$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Enums/Enums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Enums/Enums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Enums/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Exceptions/Exceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Exceptions/Exceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/FunctionalInterface/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/FunctionalInterface/FunctionalInterface$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/FunctionalInterface/FunctionalInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/FunctionalInterface/FunctionalInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/HelloWorld/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Inheritance/Inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Inheritance/Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Inheritance/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/InnerClass/InnerClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/InnerClass/InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/InnerClass/InnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/InnerClass/Outer$inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/InnerClass/Outer$staticinner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/InnerClass/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Java8-Features/IntermidiateFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Java8-Features/IntermidiateFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Java8-Features/LambdaFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Java8-Features/LambdaFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Java8-Features/TerminalOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Java8-Features/TerminalOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/CallableTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/CallableTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/ExecutorServiceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/ExecutorServiceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/Futures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/Futures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/IncrementalThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/IncrementalThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/MultiThreading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/MultiThreading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/PrintRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/MultiThreading/PrintRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Polymorphism/Polymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Strings/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Basics/Variables/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/doubleendedqueue/DoubleEndedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/iterableandcollection/IterableAndCollectionFramework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/LinkedListt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/Listt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/Stackk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/Vectorr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/map/Hashmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/map/Linkedhashmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/map/TreeMapUsingNavigiableMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/map/TreemapUsingSortedMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/BikeBrandComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/BikeTypeComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/ComparatorVsComparable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/PriorityQueueExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/set/Seet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/bin/src/test/java/com/collectionframework/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/doubleendedqueue/DoubleEndedQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/iterableandcollection/IterableAndCollectionFramework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/LinkedListt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/Listt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/Stackk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/Vectorr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/map/Hashmap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/map/Linkedhashmap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/map/TreeMapUsingNavigiableMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/map/TreemapUsingSortedMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/ComparatorVsComparable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/PriorityQueueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/set/Seet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/main/java/com/collectionframework/set/Seet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/CollectionsFramework/src/test/java/com/collectionframework/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../HTTPSessions/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/src/main/java/com/abhi/jdbc/JDBCConnect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/src/main/java/com/abhi/jdbc/JDBCConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/src/main/java/com/abhi/jdbc/JDBCConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/src/main/java/org/jdbc/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/src/main/java/org/jdbc/connecttodatabase/ConnectToDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/src/main/java/org/jdbcbankservice/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/JDBC/src/test/java/org/jdbc/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/bin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/bin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/bin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/bin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/bin/src/main/java/com/multithreaded/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/bin/src/main/java/com/multithreaded/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/bin/src/main/java/com/singlethreaded/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/bin/src/main/java/com/singlethreaded/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/bin/src/test/java/com/singlethreaded/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/src/main/java/com/multithreaded/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/src/main/java/com/multithreaded/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/src/main/java/com/multithreaded/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/src/main/java/com/multithreaded/Server$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/src/main/java/com/multithreaded/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/src/main/java/com/multithreaded/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/src/main/java/com/singlethreaded/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/src/main/java/com/singlethreaded/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/src/main/java/com/singlethreaded/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/src/main/java/com/singlethreaded/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreadedServer/src/test/java/com/singlethreaded/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/ClassWithMonitorLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/TaskThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/Futures/CustomTaskRejectionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/Futures/CustomThreadFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/Futures/TestingFutures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/Futures/TestingFutures2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/executors/TestingExecutors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/threadpoolexecutor/CompleteableFutureTesting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/threadpoolexecutor/CustomTaskRejectionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/threadpoolexecutor/CustomThreadFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/threadpoolexecutor/TestingThreadPoolExecutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer/ConsumerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer/ProducerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer/SharedResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer2/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer2/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer2/SharedResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/main/java/com/multithreading/runnableinterface/TestingRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/bin/src/test/java/com/multithreading/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/ClassWithMonitorLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/TaskThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/executorservice/Futures/TestingFutures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/executorservice/Futures/TestingFutures2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/executorservice/executors/TestingExecutors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/executorservice/threadpoolexecutor/CompleteableFutureTesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/executorservice/threadpoolexecutor/TestingThreadPoolExecutor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/producerconsumer/ConsumerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/producerconsumer/ProducerThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/producerconsumer/SharedResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/producerconsumer/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/producerconsumer2/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/producerconsumer2/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/producerconsumer2/SharedResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/producerconsumer2/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/main/java/com/multithreading/runnableinterface/TestingRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/MultiThreading/src/test/java/com/multithreading/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Practice/.idea/Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Practice/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Practice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Project1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Project1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Project1/Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Project1/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Project1/QuestionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Project1/QuestionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/bin/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/bin/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/bin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/bin/src/main/java/org/school/entity/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/bin/src/main/java/org/school/entity/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/bin/src/main/java/org/school/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/bin/src/main/java/org/school/entity/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/bin/src/main/java/org/school/service/SchoolService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/bin/src/main/java/org/school/utility/SessionFactoryUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/bin/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/src/main/java/org/school/entity/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/src/main/java/org/school/entity/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/src/main/java/org/school/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/src/main/java/org/school/entity/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/src/main/java/org/school/service/SchoolService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/src/main/java/org/school/utility/SessionFactoryUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/target/classes/org/school/entity/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/target/classes/org/school/entity/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/target/classes/org/school/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/target/classes/org/school/entity/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/target/classes/org/school/service/SchoolService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/SchoolProject/target/classes/org/school/utility/SessionFactoryUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Testing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Testing/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Testing/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Testing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Testing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Testing/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Testing/src/main/java/org/example/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Testing/src/main/java/org/example/SortingArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Testing/src/test/java/org/example/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/main/java/org/ticketbooking/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/main/java/org/ticketbooking/entities/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/main/java/org/ticketbooking/entities/Train.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/main/java/org/ticketbooking/entities/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/main/java/org/ticketbooking/localdatabase/Ticket.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/main/java/org/ticketbooking/localdatabase/Trains.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/main/java/org/ticketbooking/localdatabase/Users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/main/java/org/ticketbooking/services/TicketService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/main/java/org/ticketbooking/services/TrainService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/main/java/org/ticketbooking/services/UserBookingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/main/java/org/ticketbooking/utility/PasswordUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/Train Booking System USing Jackson/src/test/java/org/ticketbooking/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/src/main/java/com/learningmaven/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/src/main/java/com/learningmaven/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/src/test/java/com/learningmaven/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/target/classes/com/learningmaven/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/target/surefire-reports/TEST-com.learningmaven.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/target/surefire-reports/com.learningmaven.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/learningmaven/target/test-classes/com/learningmaven/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/src/main/java/com/learningserverlet/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/src/main/java/com/learningserverlet/networkprogramming/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/src/main/java/com/learningserverlet/networkprogramming/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/src/test/java/com/learningserverlet/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/target/classes/com/learningserverlet/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/target/classes/com/learningserverlet/networkprogramming/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/serverlet/target/classes/com/learningserverlet/networkprogramming/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/src/main/java/com/learningservlet/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/src/main/webapp/about.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/target/classes/com/learningservlet/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/target/servlet.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/target/servlet/WEB-INF/classes/com/learningservlet/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/target/servlet/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/target/servlet/about.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serverlet/servlet/target/servlet/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/src/main/java/com/learningservlet/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/src/main/webapp/about.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/target/classes/com/learningservlet/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/target/servlet.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/target/servlet/WEB-INF/classes/com/learningservlet/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/target/servlet/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/target/servlet/about.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/target/servlet/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="323rZ2Hkzo6B7ql6XQWYt5DtENq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Smart Tomcat.Unnamed.executor": "Run",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/abhishekkanade/Desktop/JavaAndSpringBoot/ServletLearnings/CookieSessionManagemet/src/main/java",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" nameIsGenerated="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="$USER_HOME$/.SmartTomcat/CookieSessionManagemet/CookieSessionManagemet" />
+      <option name="contextPath" value="/" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/11.0.10" />
+          <option name="path" value="$USER_HOME$/apache-tomcat-11.0.10" />
+          <option name="version" value="11.0.10.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="CookieSessionManagemet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4179f85-f566-4136-88ff-0bcf15699433" name="Changes" comment="" />
+      <created>1756660150546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756660150546</updated>
+    </task>
+    <servers />
+  </component>
+</project>
