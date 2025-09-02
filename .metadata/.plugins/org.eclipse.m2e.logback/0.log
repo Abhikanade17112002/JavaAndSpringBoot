@@ -131,3 +131,4 @@
 2025-08-30 18:17:49,691 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekkanade/Desktop/JavaAndSpringBoot/serverlet/Train Booking System USing Jackson/src/test/resources
 2025-08-30 18:17:49,705 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekkanade/Desktop/JavaAndSpringBoot/serverlet/learningmaven/src/main/resources
 2025-08-30 18:17:49,706 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/abhishekkanade/Desktop/JavaAndSpringBoot/serverlet/learningmaven/src/test/resources
+2025-09-01 11:37:53,435 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

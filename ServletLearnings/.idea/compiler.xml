@@ -8,7 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Basics" />
         <module name="URLRewriting" />
+        <module name="jsp" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JSP" target="24" />
+    </bytecodeTargetLevel>
   </component>
 </project>
