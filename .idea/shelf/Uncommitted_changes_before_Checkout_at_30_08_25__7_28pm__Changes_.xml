@@ -1,0 +1,382 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_30_08_25,_7_28 pm_[Changes]" date="1756562292341" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_08_25,_7_28 pm_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 30/08/25, 7:28 pm [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/Inheritance/Inheritance.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/Exceptions/Exceptions.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer/ProducerThread.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/doubleendedqueue/DoubleEndedQueue.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/bin/src/main/java/org/school/utility/SessionFactoryUtility.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/iterableandcollection/IterableAndCollectionFramework.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/Car.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/servlet/target/classes/com/learningservlet/HelloServlet.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/threadpoolexecutor/CustomTaskRejectionHandler.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Project1/QuestionService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/ComparatorVsComparable.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/FunctionalInterface/FunctionalInterface.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/DataTypes/DataTypes.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/Enums/Enums$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/map/TreemapUsingSortedMap.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/Bike.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/Listt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/MultiThreading/Futures.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/Enums/Status.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/Java8-Features/IntermidiateFunctions.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/serverlet/target/classes/com/learningserverlet/App.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="servlet/target/classes/com/learningservlet/HelloServlet.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/InnerClass/Outer.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/JDBC/src/main/java/com/abhi/jdbc/JDBCConnection.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/InnerClass/Outer$staticinner.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer2/Consumer.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/PriorityQueueExample.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/bin/.settings/org.eclipse.m2e.core.prefs" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/target/classes/org/school/service/SchoolService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="servlet/target/servlet/WEB-INF/classes/com/learningservlet/HelloServlet.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/MultiThreading/IncrementalThread.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/serverlet/target/classes/com/learningserverlet/networkprogramming/Server.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/LinkedListt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/BikeBrandComparator.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/AbstractKeyword/Car.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/Futures/CustomThreadFactory.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer/SharedResource.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/bin/src/main/java/org/school/service/SchoolService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/MultiThreading/PrintRunnable.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/test/java/com/multithreading/AppTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/bin/src/main/java/org/school/entity/Student.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/servlet/target/servlet/WEB-INF/classes/com/learningservlet/HelloServlet.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/MultiThreading/CallableTask.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/App.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer/Test.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreadedServer/src/main/java/com/multithreaded/Server$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/MultiThreading/MultiThreading.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/CollectionsFramework/CollestionsFramework.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/InnerClass/InnerClass.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/InnerClass/InnerClass$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/Futures/TestingFutures2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/Java8-Features/LambdaFunctions.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Project1/Question.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/ClassWithMonitorLock.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/Enums/DayEnum.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/Enums/Day.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/Animal.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/priorityqueueandcomparatorvscomparable/BikeTypeComparator.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreadedServer/src/main/java/com/multithreaded/Client.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer2/Producer.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/learningmaven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreadedServer/src/main/java/com/singlethreaded/Server.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreadedServer/src/main/java/com/multithreaded/Client$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/Futures/TestingFutures.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/executors/TestingExecutors.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreadedServer/src/main/java/com/multithreaded/Server.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/MultiThreading/Counter.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer2/Test.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/CollectionsFramework/CollectionsFramework.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/App.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="servlet/target/servlet.war" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/Java8-Features/TerminalOperations.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/Stackk.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreadedServer/src/main/java/com/singlethreaded/Client.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/AbstractKeyword/WagonR.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/Futures/CustomTaskRejectionHandler.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/test/java/com/collectionframework/AppTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/learningmaven/target/test-classes/com/learningmaven/AppTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/AbstractKeyword/AbstractKeyword.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/map/Linkedhashmap.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/bin/src/main/java/org/school/entity/Teacher.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/servlet/target/servlet.war" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/learningmaven/target/classes/com/learningmaven/App.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreadedServer/bin/src/main/java/com/singlethreaded/Client.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/learningmaven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreadedServer/bin/src/main/java/com/multithreaded/Server.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/target/classes/org/school/entity/Address.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/target/classes/org/school/entity/Course.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/MultiThreading/ExecutorServiceDemo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/learningmaven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/Enums/Enums.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/TaskThread.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/target/classes/org/school/utility/SessionFactoryUtility.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/Inheritance/Student.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/InnerClass/Outer$inner.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/bin/src/main/java/org/school/entity/Course.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/threadpoolexecutor/CompleteableFutureTesting.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/map/TreeMapUsingNavigiableMap.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/learningmaven/src/main/java/com/learningmaven/App.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/threadpoolexecutor/CustomThreadFactory.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/src/main/java/com/collectionframework/set/Seet.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/JDBC/src/main/java/com/abhi/jdbc/JDBCConnect.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/bin/src/main/java/org/school/entity/Address.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/set/Seet.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreadedServer/bin/src/test/java/com/singlethreaded/AppTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/serverlet/target/classes/com/learningserverlet/networkprogramming/Client.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/map/Hashmap.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/executorservice/threadpoolexecutor/TestingThreadPoolExecutor.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/target/classes/org/school/entity/Teacher.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/learningmaven/target/surefire-reports/com.learningmaven.AppTest.txt" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/listandlinkedlistandvectorandstack/Vectorr.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer2/SharedResource.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreadedServer/bin/src/main/java/com/multithreaded/Client.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreadedServer/bin/src/main/java/com/singlethreaded/Server.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/runnableinterface/TestingRunnable.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Project1/Main.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/CollectionsFramework/bin/src/main/java/com/collectionframework/Dog.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/MultiThreading/bin/src/main/java/com/multithreading/producerconsumer/ConsumerThread.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/learningmaven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/SchoolProject/target/classes/org/school/entity/Student.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/FunctionalInterface/A.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="serverlet/Basics/FunctionalInterface/FunctionalInterface$1.class" />
+  </binary>
+</changelist>
