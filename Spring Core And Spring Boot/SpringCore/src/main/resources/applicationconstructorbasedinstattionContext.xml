@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    <bean id="course" class="com.example.constructorbaseddependencyinjection.Course">
+        <property name="courseId" value="101"/>
+        <property name="courseName" value="DSA" />
+    </bean>
+    <bean id="student" class="com.example.constructorbaseddependencyinjection.Student" >
+        <constructor-arg name="firstName" value="Abhishek" />
+        <constructor-arg name="lastName" value="Kanade" />
+        <constructor-arg name="gender" value="Male" />
+          <constructor-arg ref="course"  />
+    </bean>
+
+</beans>
