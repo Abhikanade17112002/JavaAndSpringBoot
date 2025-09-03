@@ -9,9 +9,9 @@ import java.util.List;
 public class StudentDOA {
 
 
-    private final String url = "jdbc:mysql://localhost:3306/studentdb" ;
+    private final String url = "jdbc:mysql://localhost:3306/studentsdb" ;
     private final String usernameDB = "root" ;
-    private final String passwordDB = "Encora@12345" ;
+    private final String passwordDB = "Pass@123" ;
     static {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
