@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    <bean id="cat" class="com.example.loosecouplingconstructordependecyinjection.Cat" >
+        <property name="legs" value="4" />
+        <property name="type" value="CAT" />
+    </bean>
+    <bean id="dog" class="com.example.loosecouplingconstructordependecyinjection.Dog" >
+        <property name="legs" value="4" />
+        <property name="type" value="DOG" />
+    </bean>
+    <bean id="cow" class="com.example.loosecouplingconstructordependecyinjection.Cow" >
+        <property name="legs" value="4" />
+        <property name="type" value="COW" />
+    </bean>
+    <bean id="catmanager" class="com.example.loosecouplingconstructordependecyinjection.AnimalManager">
+        <constructor-arg name="animal" ref="cat"></constructor-arg>
+    </bean>
+    <bean id="dogmanager" class="com.example.loosecouplingconstructordependecyinjection.AnimalManager">
+        <constructor-arg name="animal" ref="dog"></constructor-arg>
+    </bean>
+    <bean id="cowmanager" class="com.example.loosecouplingconstructordependecyinjection.AnimalManager">
+        <constructor-arg name="animal" ref="cow"></constructor-arg>
+    </bean>
+
+</beans>
